@@ -1,5 +1,3 @@
-from distutils.log import error
-from math import factorial
 import numpy as np
 import math
 def fdcoeffV(k, xbar, x):
